@@ -6,12 +6,14 @@ _Curso de TypeScript na pratica-Aprenda TypeScript em 1 hora._
 > 📌  <strong>Matheus Battisti</strong>  
 
 ### 🛠 Tecnologias Utilizadas
+
 - VS Code
 - JavaScript
 - TypeScript
 - NodeJs
 
-- ### 📑 Referências Utilizadas
+
+### 📑 Referências Utilizadas
 [Video](https://youtu.be/lCemyQeSCV8)
 
 
