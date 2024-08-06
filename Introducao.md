@@ -24,3 +24,19 @@ Instalado o TypeScript
 - E vamos adicionar de forma global com a flag -g.
 - a partir da instalacao temos como executar/compilar TS
 em qualquer local da nossa maquina, com o comnado tsc.
+
+
+
+
+Scripts usados no terminal
+
+node -v //verifica a versao do node
+npm -v //verifica a versao do npm
+tsc -v   //verifica a versao do typescript
+
+npm i -g typescript  //inicia o typescript dentro da pasta do projeto
+
+tsc --init  //inicia o arquivo tsconfig.json
+
+
+
